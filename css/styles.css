@@ -29,7 +29,7 @@
 .nav-link{
     color: #fff;
 }
-.myName{
+h1{
     font-family: 'Ephesis';
     font-size: 4rem;
 }
@@ -50,10 +50,6 @@
     padding: 5% 13%;
 
 }
-.certificates{
-    font-family: 'Ephesis';
-    font-size: 1.5rem;
-}
 .certificates-image{
     width: 60%;
     padding-bottom: 1%;
@@ -65,9 +61,13 @@
     color: #fff;
     font-family: 'PT Serif';
 }
-@media (min-width: 979px) {
+@media (min-width: 900px) {
 .carousel-indicators{
     positon: absolute;
     display: inline-block;
   }
+.certificates{
+    font-family: 'Ephesis';
+    font-size: 1.5rem;
+}
 }
