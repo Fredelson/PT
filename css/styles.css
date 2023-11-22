@@ -65,3 +65,8 @@ h1{
     color: #fff;
     font-family: 'PT Serif';
 }
+@media (min-width: 979px) {
+.carousel-indicator{
+    display: block;
+  }
+}
