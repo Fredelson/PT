@@ -66,7 +66,8 @@ h1{
     font-family: 'PT Serif';
 }
 @media (min-width: 979px) {
-.carousel-indicator{
-    display: block;
+.carousel-indicators{
+    positon: absolute;
+    display: inline-block;
   }
 }
