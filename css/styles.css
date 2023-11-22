@@ -48,7 +48,7 @@
 }
 .certificates{
     font-family: 'Ephesis';
-    font-size: 1.5rem;
+    font-size: 4rem;
 }
 .carousel-item {
     padding: 5% 13%;
@@ -63,5 +63,11 @@
     font-size: 1.5rem;
     color: #fff;
     font-family: 'PT Serif';
+}
+@media (max-width: 900px){
+ .certificates{
+    font-family: 'Ephesis';
+    font-size: 1.5rem;
+}   
 }
 
