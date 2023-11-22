@@ -29,7 +29,7 @@
 .nav-link{
     color: #fff;
 }
-.myNamr{
+.myName{
     font-family: 'Ephesis';
     font-size: 4rem;
 }
@@ -64,4 +64,8 @@
     color: #fff;
     font-family: 'PT Serif';
 }
-
+@media (min-width: 900px){
+.certificates{
+    font-size: 30px;
+   }
+}
