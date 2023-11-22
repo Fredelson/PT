@@ -29,7 +29,7 @@
 .nav-link{
     color: #fff;
 }
-h1{
+.myNamr{
     font-family: 'Ephesis';
     font-size: 4rem;
 }
@@ -46,9 +46,12 @@ h1{
     background: linear-gradient(109.6deg, rgb(6, 2, 2) 32.4%, rgb(137, 30, 47) 98.8%);
     text-align: center;
 }
+.certificates{
+    font-family: 'Ephesis';
+    font-size: 1.5rem;
+}
 .carousel-item {
     padding: 5% 13%;
-
 }
 .certificates-image{
     width: 60%;
@@ -61,13 +64,4 @@ h1{
     color: #fff;
     font-family: 'PT Serif';
 }
-@media (min-width: 900px) {
-.carousel-indicators{
-    positon: absolute;
-    display: inline-block;
-  }
-.certificates{
-    font-family: 'Ephesis';
-    font-size: 1.5rem;
-}
-}
+
