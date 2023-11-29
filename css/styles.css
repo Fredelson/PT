@@ -14,6 +14,7 @@
 }
 .navbar{
     font-family: 'PT Serif';
+    box-shadow: none;
 }
 .navbar-toggler{
     background-color: #fff;
